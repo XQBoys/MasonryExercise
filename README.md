@@ -20,4 +20,5 @@ github:[UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableV
 ![Demo Demo](https://github.com/XQBoy/MasonryExercise/blob/master/Demo/Demo/%E6%A8%AA%E5%B1%8F.gif)
 
 竖屏:
+
 ![Demo Demo](https://github.com/XQBoy/MasonryExercise/blob/master/Demo/Demo/%E7%AB%96%E5%B1%8F.gif)
